@@ -132,7 +132,7 @@ body._lock {
       align-items: center;
    }
 
-   menu__list>li {
+   .menu__list>li {
       padding: 10px 0;
    }
 }
